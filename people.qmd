@@ -14,6 +14,51 @@ title: 'People'
 
 *Participants listed by year.*
 
+## 2023-2024
+
+### ***Instructor***
+
+*Laura Baracaldo,* Statistics and Applied Probability (PSTAT197A-B-C/CMPSC190DD-DE-DF)
+
+### ***Project advisors***
+
+(In alphabetical order by last name)
+
+-   *Laura Baracaldo,* Visiting Assistant Professor, Statistics
+
+-   *Alex Franks,* Assistant Professor, Statistics
+
+-   *Yan Lashchev,* Undergraduate Program Advisor, Statistics
+
+-   *Jose Nino,* Data Science Student Advisor, Computer Science
+
+-   *Erika McPhillips,* PhD Student, Statistics
+
+-   *Avani Tanna,* Lecturer, Computer Science
+
+
+
+### ***Project sponsors***
+
+-   *Jordan Tran,* Appfolio
+
+-   *Nate Emery,* CITRAL
+
+-   *Michaela Alksne,* Scripps Institution of Oceanography
+
+-   *Katja Seltmann,* CCBER
+
+-   *Shraddhanand Shukla,* Climate Hazards Center, Geography Department
+
+-   *Michael Schmidt,* Nation Builder
+
+-   *Matto Mildenberger,* Political Science Department
+
+-   *Eric Leidersdorf,* P3
+
+-   *Derek Mendez,* SLAC National Accelerator Laboratory
+
+
 ## 2022-2023
 
 ### Instructor
