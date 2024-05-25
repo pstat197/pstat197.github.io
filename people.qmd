@@ -63,7 +63,7 @@ title: 'People'
 
 ### Instructor
 
-Trevor Ruiz, Statistics and Applied Probability (PSTAT197A-B-C/CMPSC190DD-DE-DF)
+*Trevor Ruiz*, Statistics and Applied Probability (PSTAT197A-B-C/CMPSC190DD-DE-DF)
 
 ### Project sponsors
 
