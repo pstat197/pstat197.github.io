@@ -1,6 +1,7 @@
 ---
 title: "Data science capstone at UCSB"
 subtitle: "Collaborative research experiences for undergraduates in interdisciplinary data science, computational science, and statistics"
+layout: article
 ---
 
 ::: callout-note
