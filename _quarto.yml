@@ -13,6 +13,10 @@ website:
   google-analytics: "G-2RLZ4ZPF1B"
   # reader-mode: true
   repo-url: "https://github.com/pstat197/pstat197.github.io"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
   sidebar:
     title: "Data Science Capstone"
     style: "docked"
