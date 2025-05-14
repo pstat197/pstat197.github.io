@@ -18,7 +18,7 @@ website:
       - href: index.qmd
         text: Home
   sidebar:
-    title: "Data Science Capstone"
+    # title: "Data Science Capstone"
     style: "docked"
     collapse-level: 1
     search: true
