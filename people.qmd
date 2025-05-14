@@ -3,30 +3,40 @@ title: 'People'
 ---
 
 ::: callout-note
-## Contacts for 2023-2024 capstone
+## Contacts for 2025-2026 capstone
 
--   Laura Baracaldo Lancheros, visiting assistant professor: project sponsorship and course information for 23-24 \[[email](mailto:lnbaracaldol@ucsb.edu)\]
+-   Kathleen M. Coburn, lecturer: project sponsorship and course information for 2025-2026 \[[email](mailto:katie_m_coburn@ucsb.edu)\]
 
--   Ellery Wilkie, undergraduate advisor: applications, information for students, enrollment \[[email](mailto:ewilkie@ucsb.edu)\]
+-   Ellery Wilkie, undergraduate advisor: applications, information for students, enrollment \[[email](mailto:advising@pstat.ucsb.edu)\]
 
 -   Tim Robinson, academic coordinator: general questions \[[email](mailto:trobinson@ucsb.edu)\]
 :::
 
 *Participants listed by year.*
 
+## 2025-2026
+
+### ***Instructors***
+
+*Dr. Laura Baracaldo,* Statistics and Applied Probability (PSTAT197A-B-C/CMPSC190DD-DE-DF)
+
+*Dr. Kathleen Coburn,* Statistics and Applied Probability (PSTAT197A-B-C/CMPSC190DD-DE-DF)
+
+## 2024-2025
+
 ## 2023-2024
 
 ### ***Instructor***
 
-*Laura Baracaldo,* Statistics and Applied Probability (PSTAT197A-B-C/CMPSC190DD-DE-DF)
+*Dr. Laura Baracaldo,* Statistics and Applied Probability (PSTAT197A-B-C/CMPSC190DD-DE-DF)
 
 ### ***Project advisors***
 
 (In alphabetical order by last name)
 
--   *Laura Baracaldo,* Visiting Assistant Professor, Statistics
+-   *Dr. Laura Baracaldo,* Visiting Assistant Professor, Statistics
 
--   *Alex Franks,* Assistant Professor, Statistics
+-   *Dr. Alex Franks,* Assistant Professor, Statistics
 
 -   *Yan Lashchev,* Undergraduate Program Advisor, Statistics
 
@@ -34,7 +44,7 @@ title: 'People'
 
 -   *Erika McPhillips,* PhD Student, Statistics
 
--   *Avani Tanna,* Lecturer, Computer Science
+-   *Dr. Avani Tanna,* Lecturer, Computer Science
 
 
 
@@ -63,7 +73,7 @@ title: 'People'
 
 ### Instructor
 
-*Trevor Ruiz*, Statistics and Applied Probability (PSTAT197A-B-C/CMPSC190DD-DE-DF)
+*Dr. Trevor Ruiz*, Statistics and Applied Probability (PSTAT197A-B-C/CMPSC190DD-DE-DF)
 
 ### Project sponsors
 
@@ -95,13 +105,13 @@ Derek Mendez, Stanford National Accelerator Lab
 
 ### Project advisors
 
-Trevor Ruiz, Statistics and Applied Probability
+Dr. Trevor Ruiz, Statistics and Applied Probability
 
-Alex Franks, Statistics and Applied Probability
+Dr. Alex Franks, Statistics and Applied Probability
 
-Laura Baracaldo, Statistics and Applied Probability
+Dr. Laura Baracaldo, Statistics and Applied Probability
 
-Adam Waterbury, Statistics and Applied Probability
+Dr. Adam Waterbury, Statistics and Applied Probability
 
 Enbo Zhou, Geography
 
@@ -237,11 +247,11 @@ Allen Wang, STSDS
 
 ### Instructors
 
-Ambuj Singh, Computer Science (PSTAT197A/CMPSC190DD)
+Dr. Ambuj Singh, Computer Science (PSTAT197A/CMPSC190DD)
 
-Alex Franks, Statistics and Applied Probability (PSTAT197B-C/CMPSC190DE-DF)
+Dr. Alex Franks, Statistics and Applied Probability (PSTAT197B-C/CMPSC190DE-DF)
 
-Trevor Ruiz, Statistics and Applied Probability (PSTAT197B-C/CMPSC190DE-DF)
+Dr. Trevor Ruiz, Statistics and Applied Probability (PSTAT197B-C/CMPSC190DE-DF)
 
 ### Project sponsors
 
@@ -273,11 +283,11 @@ Tommy Sprague, Sprague Lab
 
 ### Project advisors
 
-Trevor Ruiz, Statistics and Applied Probability
+Dr. Trevor Ruiz, Statistics and Applied Probability
 
-Alex Franks, Statistics and Applied Probability
+Dr. Alex Franks, Statistics and Applied Probability
 
-Adam Waterbury, Statistics and Applied Probability
+Dr. Adam Waterbury, Statistics and Applied Probability
 
 Leron Reznikov, Computer Science
 
@@ -415,11 +425,11 @@ Timi Tao, STSDS
 
 ### Instructors
 
-Ambuj Singh, Computer Science (PSTAT197A/CMPSC190DD)
+Dr. Ambuj Singh, Computer Science (PSTAT197A/CMPSC190DD)
 
-Alex Franks, Statistics and Applied Probability (PSTAT197B-C/CMPSC190DE-DF)
+Dr. Alex Franks, Statistics and Applied Probability (PSTAT197B-C/CMPSC190DE-DF)
 
-Sang-Yun Oh, Statistics and Applied Probability (PSTAT197B-C/CMPSC190DE-DF)
+Dr. Sang-Yun Oh, Statistics and Applied Probability (PSTAT197B-C/CMPSC190DE-DF)
 
 ### Project sponsors
 
@@ -447,13 +457,13 @@ Namino Glantz and David Kerr, Sansum Diabetes Research Institute
 
 ### Project advisors
 
-Ambuj Singh, Computer Science
+Dr. Ambuj Singh, Computer Science
 
-Mike Ludkovski, Statistics and Applied Probability
+Dr. Mike Ludkovski, Statistics and Applied Probability
 
-Sang-Yun Oh, Statistics and Applied Probability
+Dr. Sang-Yun Oh, Statistics and Applied Probability
 
-Alex Franks, Statistics and Applied Probability
+Dr. Alex Franks, Statistics and Applied Probability
 
 Kate Kharitonova, Computer Science
 

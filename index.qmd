@@ -1,14 +1,13 @@
 ---
 title: "Data science capstone at UCSB"
 subtitle: "Collaborative research experiences for undergraduates in interdisciplinary data science, computational science, and statistics"
-layout: article
 ---
 
 ::: callout-note
 ## Announcements
 
 
--   Applications for the 2025-2026 capstone class are open until Friday, August 1st. Add codes will be distributed to admitted students on September 9th.  [Application form](https://docs.google.com/forms/d/e/1FAIpQLSe0tNoWXC9GKBHxhlqxRxq6Q61iQh0HW-sN_px5emVEphY4Fg/viewform?usp=sharing)
+-   Applications for the 2025-2026 capstone class are open until **Friday, August 1st, 2025**! Add codes will be distributed to admitted students on September 9th, 2025.  [Application form](https://docs.google.com/forms/d/e/1FAIpQLSe0tNoWXC9GKBHxhlqxRxq6Q61iQh0HW-sN_px5emVEphY4Fg/viewform?usp=sharing)
 <!-- -   [Interest form](https://forms.gle/kD9v9sJ5V2XxNF9N6) for project sponsorship proposals now available; read more on our [info for sponsors page](info-for-sponsors.qmd) -->
 <!-- -   2022-2023 capstone posters are now available on the [projects page](projects/projects-22-23.qmd) -->
 :::
