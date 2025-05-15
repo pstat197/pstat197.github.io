@@ -8,13 +8,28 @@ title: 'People'
 -   Kathleen M. Coburn, lecturer: project sponsorship and course information for 2025-2026 \[[email](mailto:katie_m_coburn@ucsb.edu)\]
 
 -   Ellery Wilkie, undergraduate advisor: applications, information for students, enrollment \[[email](mailto:advising@pstat.ucsb.edu)\]
-
--   Tim Robinson, academic coordinator: general questions \[[email](mailto:trobinson@ucsb.edu)\]
 :::
 
 *Participants listed by year.*
 
 ## 2025-2026
+
+### ***Instructor***
+
+*Dr. Kathleen Coburn,* Statistics and Applied Probability (PSTAT197A-B-C/CMPSC190DD-DE-DF)
+
+### ***Project sponsors***
+
+TBD
+
+### ***Project advisors***
+(in alphabetical order by last name)
+
+-   *Dr. Kathleen Coburn,* Statistics and Applied Probability (PSTAT197A-B-C/CMPSC190DD-DE-DF)
+
+-   *Yan Lashchev,* Undergraduate Program Advisor, Statistics
+
+## 2024-2025
 
 ### ***Instructors***
 
@@ -22,31 +37,16 @@ title: 'People'
 
 *Dr. Kathleen Coburn,* Statistics and Applied Probability (PSTAT197A-B-C/CMPSC190DD-DE-DF)
 
-## 2024-2025
+### ***Project sponsors***
+
+### ***Project advisors***
+(in alphabetical order by last name)
 
 ## 2023-2024
 
 ### ***Instructor***
 
 *Dr. Laura Baracaldo,* Statistics and Applied Probability (PSTAT197A-B-C/CMPSC190DD-DE-DF)
-
-### ***Project advisors***
-
-(In alphabetical order by last name)
-
--   *Dr. Laura Baracaldo,* Visiting Assistant Professor, Statistics
-
--   *Dr. Alex Franks,* Assistant Professor, Statistics
-
--   *Yan Lashchev,* Undergraduate Program Advisor, Statistics
-
--   *Jose Nino,* Data Science Student Advisor, Computer Science
-
--   *Erika McPhillips,* PhD Student, Statistics
-
--   *Dr. Avani Tanna,* Lecturer, Computer Science
-
-
 
 ### ***Project sponsors***
 
@@ -68,6 +68,21 @@ title: 'People'
 
 -   *Derek Mendez,* SLAC National Accelerator Laboratory
 
+### ***Project advisors***
+
+(In alphabetical order by last name)
+
+-   *Dr. Laura Baracaldo,* Visiting Assistant Professor, Statistics
+
+-   *Dr. Alex Franks,* Assistant Professor, Statistics
+
+-   *Yan Lashchev,* Undergraduate Program Advisor, Statistics
+
+-   *Jose Nino,* Data Science Student Advisor, Computer Science
+
+-   *Erika McPhillips,* PhD Student, Statistics
+
+-   *Dr. Avani Tanna,* Lecturer, Computer Science
 
 ## 2022-2023
 
