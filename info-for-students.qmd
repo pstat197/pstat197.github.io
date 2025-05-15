@@ -3,41 +3,41 @@ title: "Information for students"
 editor: visual
 ---
 
-The goal of the capstone is to provide training in collaborative data science, hands-on research experience, and career development opportunities to students entering the job market or considering graduate school.
+The goal of the capstone is to provide training in collaborative data science, hands-on research experience, and career development opportunities to students who are about to enter the job market or who are considering graduate school.
 
-The capstone is designed primarily for senior students of any discipline having an intermediate level of experience with applied quantitative methods of any kind and some exposure to programming. It is not expected that students will have obtained any specialized background or completed advanced coursework prior to participating, and students from non-PSTAT major programs are especially encouraged to apply. Here you can find information on eligibility, how to apply, and program outcomes.
+The capstone is designed primarily for **senior students** of any discipline having an intermediate level of experience with applied quantitative methods of any kind and some exposure to programming. It is **not** expected that students will have obtained any specialized background or completed advanced coursework prior to participating, and students from non-PSTAT major programs are encouraged to apply. Here you can find information on eligibility, how to apply, and program outcomes.
 
 ::: callout-note
 ## At a glance
 
--   50 seats available each year
+-   60 seats available each year
 
--   Participation is by application only; applications open in Spring quarter for the following year and are reviewed in week 5 and on a rolling basis thereafter
+-   Participation is **by application only**; applications open in Spring quarter for the following year, add codes will be distributed at the start of Pass 3 for the Fall quarter
 
 -   Eligibility requirements:
 
-    -   junior or senior standing by fall quarter of the program year;
+    -   junior or senior standing by Fall quarter of the program year;
 
     -   strong academic record;
 
     -   motivation and interest in research;
 
-    -   prior experience with computing, statistics and probability, and regression
+    -   some prior experience with computing, statistics and probability, and regression
 
--   Students must make a full year commitment -- enroll in one 4-credit course each quarter -- to participate
+-   Students must make a **full year commitment** -- enroll in one 4-credit course each quarter -- to participate
 
--   Specialized or advanced training in statistical modeling, machine learning, computing, data science, etc., ***not required for non-PSTAT students***
+-   Specialized or advanced training in statistical modeling, machine learning, computing, data science, etc. are beneficial, but are ***not required***
 
--   Non-PSTAT students are especially encouraged to apply
+-   Non-PSTAT students are encouraged to apply
 :::
 
 ## How to apply
 
 Applications open in Spring quarter and remain open through summer. To apply, simply fill out the application form linked below (the form will be live while applications are open).
 
-\[[Application form](https://forms.gle/XdERSiCaYGvcWgVh8)\]
+\[[Application form](https://docs.google.com/forms/d/e/1FAIpQLSe0tNoWXC9GKBHxhlqxRxq6Q61iQh0HW-sN_px5emVEphY4Fg/viewform?usp=sharing)\]
 
-Applications will be reviewed by the end of the spring quarter and on a rolling basis thereafter. An initial cohort will be admitted by mid-summer and provided add codes for enrollment. Other applicants meeting eligibility requirements will be waitlisted, and any remaining seats will be allocated by mid-September prior to the start of the program year. After this date applications will be closed.
+Applications will be reviewed beginning **August 1st, 2025** and on a rolling basis thereafter. An initial cohort will be notified by **September 9th, 2025** and will be provided with add codes for enrollment. Other applicants meeting eligibility requirements will be waitlisted, and any remaining seats will be allocated by mid-September prior to the start of the program year. Once all seats in the course have been filled, the application will be closed.
 
 ## What to expect
 
@@ -53,7 +53,7 @@ The prerequisites for the capstone are exposure to (1) computing, (2) statistics
 
 For the PSTAT student, completion of regression analysis (PSTAT126) should suffice. For the non-PSTAT student, any prior experience with statistical concepts, quantitative models, and computing will be considered.
 
-Students should be of junior or senior standing by the term they would begin the capstone (*i.e.,* fall of the year of application). A full-year commitment is expected to participate, so seniors expecting to graduate early may not be eligible. Younger students, even if otherwise eligible, will be encouraged to reapply in a later year.
+Students should be of junior or senior standing by the term they would begin the capstone (*i.e.,* Fall of the year of application). A **full-year commitment** is expected to participate, so seniors expecting to graduate early may not be eligible; students who are able to commit to enrolling in all three courses will be prioritized for admission. Younger students, even if otherwise eligible, will be encouraged to reapply in a later year.
 
 Students should have a strong academic record and be motivated to learn independently and work on a research problem.
 
@@ -61,27 +61,27 @@ Students should have a strong academic record and be motivated to learn independ
 
 *How are students selected for enrollment in the class?*
 
-Applications are screened to ensure participation requirements are met: completion of prerequisites, good academic record, and junior or senior standing. After screening, selection for enrollment is carried out by a random lottery.
+Applications are screened to ensure participation requirements are met: completion of prerequisites, good academic record, and junior or senior standing. Among students who meet these participation requirements, applications will be reviewed by a committee and evaluated based on their sample of prior work and their motivation for application to the program. Once the committee has obtained a final pool of potential candidates, students will be selected from that pool by random lottery.
 
 *Is there a GPA requirement?*
 
-Your GPA weighs in determining eligibility to participate, but there is not a hard cutoff.
+Your GPA does contribute in determining eligibility to participate (a higher GPA corresponds to a better academic record), but there is not a hard cutoff.
 
 *What happens if I am waitlisted?*
 
-If you are waitlisted, that means that you met all requirements to join the class but were not selected in the initial lottery. If so, you will be considered for any seats that open up before the start of the quarter; selection for these seats is also carried out by random lottery.
+If you are waitlisted, that means that you met all requirements to join the class but were ultimately not chosen in the random lottery. If so, you will be considered for any seats that open up before the start of the quarter; selection for these seats is also carried out by random lottery.
 
 *Are there any specific languages/packages I need to know?*
 
-No. The requirement is that you have intermediate proficiency (use in 2+ courses or equivalent) in *some* language so that you are familiar with programming concepts and able to learn further skills semi-independently (*i.e.,* with the help of a book or tutorial). Most students will have had some experience with R or python, and some with similar languages such as Matlab, Mathematica, or Julia. However, what constitutes 'experience' is pretty broad and can range from a few courses to a few years. Regardless of experience, almost everyone will develop new programming skills 'on-the-job' in the course of their projects. Students do not need a specific background to succeed.
+No. The requirement is that you have intermediate proficiency (use in 2+ courses or equivalent) in *some* language so that you are familiar with programming concepts and able to learn further skills semi-independently (*i.e.,* with the help of a book or tutorial). Most students will have had some experience with R or Python, and some with similar languages such as Matlab, Mathematica, or Julia. However, what constitutes 'experience' is pretty broad, and can range from a few courses to a few years of use. Regardless of experience, almost everyone will develop new programming skills 'on-the-job' in the course of their projects. All projects are different and students do not need a specific background to succeed.
 
 *Are there any recommended classes that would prepare me for the capstone?*
 
-CMPSC5A-B and PSTAT100 are widely-accessible data science courses that can be taken in sequence over the course of a year and provide good preparation for the capstone and exposure to programming in python. PSTAT students may elect to take the statistical learning course (PSTAT131) for additional preparation. Non-PSTAT majors would benefit from any quantitative methods courses offered in their home department. More broadly, any course(s) that reinforce programming skills and data analysis will be beneficial.
+CMPSC 5A-B and PSTAT 100 are widely accessible data science courses that can be taken in sequence over the course of a year and generally will provide good preparation for the capstone and exposure to programming in Python. PSTAT students may elect to take the statistical learning course (PSTAT 131) for additional preparation. Non-PSTAT majors would benefit from any quantitative methods courses offered in their home department. More broadly, any course(s) that reinforce programming skills and data analysis will be beneficial.
 
 *How are students assigned to capstone projects in the program?*
 
-Students have the opportunity to review project abstracts and specify a set of preferred assignments. However, preferences are considered together with technical skills, domain backgrounds, and factors affecting group dynamics in forming project teams, so we cannot guarantee students will receive their top choices. Ultimately, project assignments are made at the discretion of instructors.
+Students have the opportunity to review proposed project abstracts and specify a set of preferred assignments. Preferences are considered together with technical skills, domain backgrounds, and factors affecting group dynamics in forming project teams, so **we cannot guarantee students will receive their top choices**. Ultimately, project assignments are made at the discretion of instructors.
 
 *Will I get a job or internship through the program if my project is successful?*
 

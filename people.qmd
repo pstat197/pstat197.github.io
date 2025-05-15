@@ -10,7 +10,7 @@ title: 'People'
 -   Ellery Wilkie, undergraduate advisor: applications, information for students, enrollment \[[email](mailto:advising@pstat.ucsb.edu)\]
 :::
 
-*Participants listed by year.*
+*Participants listed by year, in alphabetical order by last name.*
 
 ## 2025-2026
 
@@ -18,11 +18,11 @@ title: 'People'
 
 *Dr. Kathleen Coburn,* Statistics and Applied Probability (PSTAT197A-B-C/CMPSC190DD-DE-DF)
 
-### ***Project sponsors***
+### ***Project advisors***
 
 TBD
 
-### ***Project advisors***
+### ***Project mentors***
 (in alphabetical order by last name)
 
 -   *Dr. Kathleen Coburn,* Statistics and Applied Probability (PSTAT197A-B-C/CMPSC190DD-DE-DF)
@@ -37,10 +37,43 @@ TBD
 
 *Dr. Kathleen Coburn,* Statistics and Applied Probability (PSTAT197A-B-C/CMPSC190DD-DE-DF)
 
-### ***Project sponsors***
-
 ### ***Project advisors***
-(in alphabetical order by last name)
+
+-   *Michaela Alksne*, UCSD Scripps Institute of Oceanography
+
+-   *Lucas Boyd*, UCSB Political Science / 2035 Initiative
+
+-   *Laura Harrison*, UCSB Climate Hazards Center
+
+-   *Larissa Heeren*, SLO County Probation Dept.
+
+-   *James O'Brien*, SoundEthics
+
+-   *Erin Satterthwaite*, CalCOFI
+
+-   *Katja Seltmann and Maddie Oswald*, CCBER
+
+-   *Shraddhanand Shukla*, Geography Department
+
+-   *Michael Schmidt and Yvonne Baur*, NationBuilder
+
+-   *Derek Mendez*, SLAC National Accelerator Laboratory
+
+### ***Project mentors***
+
+-   *Dr. Laura Baracaldo,* Visiting Assistant Professor, Statistics
+
+-   *Dr. Kathleen Coburn*, Lecturer, Statistics
+
+-   *Yan Lashchev,* Undergraduate Program Advisor, Statistics
+
+-   *Jose Nino,* DREAM Lab
+
+-   *Erika McPhillips,* PhD Student, Statistics
+
+-   *Dr. Avani Tanna,* Lecturer, Computer Science
+
+-   *Jeffrey Wu*, PhD Student, Statistics
 
 ## 2023-2024
 
@@ -48,7 +81,7 @@ TBD
 
 *Dr. Laura Baracaldo,* Statistics and Applied Probability (PSTAT197A-B-C/CMPSC190DD-DE-DF)
 
-### ***Project sponsors***
+### ***Project advisors***
 
 -   *Jordan Tran,* Appfolio
 
@@ -68,9 +101,7 @@ TBD
 
 -   *Derek Mendez,* SLAC National Accelerator Laboratory
 
-### ***Project advisors***
-
-(In alphabetical order by last name)
+### ***Project mentors***
 
 -   *Dr. Laura Baracaldo,* Visiting Assistant Professor, Statistics
 
@@ -90,7 +121,7 @@ TBD
 
 *Dr. Trevor Ruiz*, Statistics and Applied Probability (PSTAT197A-B-C/CMPSC190DD-DE-DF)
 
-### Project sponsors
+### Project advisors
 
 Maxim Ivanov and Bonnie Jin, Amgen
 
@@ -118,7 +149,7 @@ Eric Leidersdorf, Peak Performance Project
 
 Derek Mendez, Stanford National Accelerator Lab
 
-### Project advisors
+### Project mentors
 
 Dr. Trevor Ruiz, Statistics and Applied Probability
 
@@ -268,7 +299,7 @@ Dr. Alex Franks, Statistics and Applied Probability (PSTAT197B-C/CMPSC190DE-DF)
 
 Dr. Trevor Ruiz, Statistics and Applied Probability (PSTAT197B-C/CMPSC190DE-DF)
 
-### Project sponsors
+### Project advisors
 
 Chad Spensky and Rita Mounir, Allthenticate
 
@@ -296,7 +327,7 @@ Rebert Bernard, Pricewaterhouse Coopers
 
 Tommy Sprague, Sprague Lab
 
-### Project advisors
+### Project mentors
 
 Dr. Trevor Ruiz, Statistics and Applied Probability
 
@@ -446,7 +477,7 @@ Dr. Alex Franks, Statistics and Applied Probability (PSTAT197B-C/CMPSC190DE-DF)
 
 Dr. Sang-Yun Oh, Statistics and Applied Probability (PSTAT197B-C/CMPSC190DE-DF)
 
-### Project sponsors
+### Project advisors
 
 Peng-Yuan Lai and Soeren Thust, Appfolio
 
@@ -470,7 +501,7 @@ Juliana Acosta Uribe and Ken Kosik, Neuroscience Research Institute
 
 Namino Glantz and David Kerr, Sansum Diabetes Research Institute
 
-### Project advisors
+### Project mentors
 
 Dr. Ambuj Singh, Computer Science
 
