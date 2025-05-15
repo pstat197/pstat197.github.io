@@ -4,6 +4,9 @@ subtitle: "Collaborative research experiences for undergraduates in interdiscipl
 ---
 
 ::: callout-note
+
+Note: The page is currently under construction as we implement updates for the upcoming 2025-2026 capstone class.
+
 ## Announcements
 
 

@@ -14,15 +14,15 @@ title: 'People'
 
 ## 2025-2026
 
-### ***Instructor***
+### Instructor
 
 *Dr. Kathleen Coburn,* Statistics and Applied Probability (PSTAT197A-B-C/CMPSC190DD-DE-DF)
 
-### ***Project advisors***
+### Project advisors
 
 TBD
 
-### ***Project mentors***
+### Project mentors
 (in alphabetical order by last name)
 
 -   *Dr. Kathleen Coburn,* Statistics and Applied Probability (PSTAT197A-B-C/CMPSC190DD-DE-DF)
@@ -31,13 +31,13 @@ TBD
 
 ## 2024-2025
 
-### ***Instructors***
+### Instructors
 
 *Dr. Laura Baracaldo,* Statistics and Applied Probability (PSTAT197A-B-C/CMPSC190DD-DE-DF)
 
 *Dr. Kathleen Coburn,* Statistics and Applied Probability (PSTAT197A-B-C/CMPSC190DD-DE-DF)
 
-### ***Project advisors***
+### Project advisors
 
 -   *Michaela Alksne*, UCSD Scripps Institute of Oceanography
 
@@ -59,7 +59,7 @@ TBD
 
 -   *Derek Mendez*, SLAC National Accelerator Laboratory
 
-### ***Project mentors***
+### Project mentors
 
 -   *Dr. Laura Baracaldo,* Visiting Assistant Professor, Statistics
 
@@ -75,13 +75,89 @@ TBD
 
 -   *Jeffrey Wu*, PhD Student, Statistics
 
+### Students
+
+-   Leena-Karima Anqud 
+
+-   Anshi Arora
+
+-   Liuqian Bao
+
+-   Bennett Bishop
+
+-   Xiaofeng Cai
+
+-   Rebecca Chang
+
+-   Christina Hefan Cui
+
+-   Keon Dibley
+
+-   Luke Dillon
+
+-   Jiajia Feng
+
+-   Valerie de la Fuente
+
+-   Tess Ivinjack
+
+-   Amy Ji
+
+-   Ruizhe Jiang
+
+-   Reese Karo 
+
+-   Nikhil Kuniyil
+
+-   Justin Lang 
+
+-   Daniel Ledvin
+
+-   Ivy Li
+
+-   Casey Linden
+
+-   Navin Lo
+
+-   Kuan-I Lu
+
+-   William Mahnke
+
+-   Nazhah Mir
+
+-   Sophia Mirrashidi
+
+-   Jade O'Brien
+
+-   Owen Philliber
+
+-   Sean Reagan
+
+-   Parker Reedy
+
+-   James San
+
+-   Pramukh Shankar
+
+-   Kasturi Sharma
+
+-   Sophie Shi
+
+-   Jiaxin Su
+
+-   Shirley Wang 
+
+-   Joseph Zaki
+
+-   Wentao Zhang
+
 ## 2023-2024
 
-### ***Instructor***
+### Instructor
 
 *Dr. Laura Baracaldo,* Statistics and Applied Probability (PSTAT197A-B-C/CMPSC190DD-DE-DF)
 
-### ***Project advisors***
+### Project advisors
 
 -   *Jordan Tran,* Appfolio
 
@@ -101,7 +177,7 @@ TBD
 
 -   *Derek Mendez,* SLAC National Accelerator Laboratory
 
-### ***Project mentors***
+### Project mentors
 
 -   *Dr. Laura Baracaldo,* Visiting Assistant Professor, Statistics
 
