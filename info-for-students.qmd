@@ -43,7 +43,7 @@ Students can expect to gain training and skills in collaborative data science an
 
 Depending on the project, students may also contribute during or after the project work period to other outputs such as public repositories, software products, conference presentations, or publications.
 
-Besides project outputs, students receive mentorship from their project advisors throughout the course of the experiential learning component of the capstone. Students also gain access to the network of current and past participants and project sponsors for career development purposes.
+Besides project outputs, students receive mentorship from their project sponsors and graduate student mentors throughout the course of the experiential learning component of the capstone. Students also gain access to the network of current and past participants and project sponsors for career development purposes.
 
 ## Prerequisites and eligibility
 

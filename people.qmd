@@ -20,7 +20,7 @@ title: 'People'
 
 *Dr. Anthony (Tony) Coburn,* Statistics and Applied Probability (PSTAT197A-B-C/CMPSC190DD-DE-DF)
 
-### Project mentors
+### Project Sponsors
 (in alphabetical order by last name)
 
 -   *Juliana Acosta-Uribe*, UCSB Neuroscience Research Institute
@@ -45,7 +45,7 @@ title: 'People'
 
 -   *Soojin Yi*, UCSB Comparative Genomics & Epigenomics Lab
 
-### Project advisors
+### Student Mentors
 (in alphabetical order by last name)
 
 -   *Abhijit Brahme*, Graduate Student, Statistics and Applied Probability
@@ -179,7 +179,7 @@ title: 'People'
 
 *Dr. Kathleen Coburn,* Statistics and Applied Probability (PSTAT197A-B-C/CMPSC190DD-DE-DF)
 
-### Project mentors
+### Project Sponsors
 
 -   *Michaela Alksne*, UCSD Scripps Institute of Oceanography
 
@@ -201,7 +201,7 @@ title: 'People'
 
 -   *Derek Mendez*, SLAC National Accelerator Laboratory
 
-### Project advisors
+### Student Mentors
 
 -   *Dr. Laura Baracaldo,* Visiting Assistant Professor, Statistics
 
@@ -299,7 +299,7 @@ title: 'People'
 
 *Dr. Laura Baracaldo,* Statistics and Applied Probability (PSTAT197A-B-C/CMPSC190DD-DE-DF)
 
-### Project mentors
+### Project Sponsors
 
 -   *Jordan Tran,* Appfolio
 
@@ -319,7 +319,7 @@ title: 'People'
 
 -   *Derek Mendez,* SLAC National Accelerator Laboratory
 
-### Project advisors
+### Faculty and Student Mentors
 
 -   *Dr. Laura Baracaldo,* Visiting Assistant Professor, Statistics
 
@@ -433,7 +433,7 @@ title: 'People'
 
 *Dr. Trevor Ruiz*, Statistics and Applied Probability (PSTAT197A-B-C/CMPSC190DD-DE-DF)
 
-### Project mentors
+### Project Sponsors
 
 Maxim Ivanov and Bonnie Jin, Amgen
 
@@ -461,7 +461,7 @@ Eric Leidersdorf, Peak Performance Project
 
 Derek Mendez, Stanford National Accelerator Lab
 
-### Project advisors
+### Faculty and Student Mentors
 
 Dr. Trevor Ruiz, Statistics and Applied Probability
 
@@ -611,7 +611,7 @@ Dr. Alex Franks, Statistics and Applied Probability (PSTAT197B-C/CMPSC190DE-DF)
 
 Dr. Trevor Ruiz, Statistics and Applied Probability (PSTAT197B-C/CMPSC190DE-DF)
 
-### Project mentors
+### Project Sponsors
 
 Chad Spensky and Rita Mounir, Allthenticate
 
@@ -639,7 +639,7 @@ Rebert Bernard, Pricewaterhouse Coopers
 
 Tommy Sprague, Sprague Lab
 
-### Project advisors
+### Faculty and Student Mentors
 
 Dr. Trevor Ruiz, Statistics and Applied Probability
 
@@ -789,7 +789,7 @@ Dr. Alex Franks, Statistics and Applied Probability (PSTAT197B-C/CMPSC190DE-DF)
 
 Dr. Sang-Yun Oh, Statistics and Applied Probability (PSTAT197B-C/CMPSC190DE-DF)
 
-### Project mentors
+### Project Sponsors
 
 Peng-Yuan Lai and Soeren Thust, Appfolio
 
@@ -813,7 +813,7 @@ Juliana Acosta Uribe and Ken Kosik, Neuroscience Research Institute
 
 Namino Glantz and David Kerr, Sansum Diabetes Research Institute
 
-### Project advisors
+### Faculty and Student Mentors
 
 Dr. Ambuj Singh, Computer Science
 

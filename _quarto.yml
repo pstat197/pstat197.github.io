@@ -3,7 +3,6 @@ project:
   output-dir: docs
   render:
     - index.qmd
-    - info-for-mentors.qmd
     - info-for-sponsors.qmd
     - info-for-students.qmd
     - people.qmd
@@ -29,7 +28,7 @@ website:
       - href: index.qmd
         text: Home
       - info-for-students.qmd
-      - info-for-mentors.qmd
+      - info-for-sponsors.qmd
       - people.qmd
       - section: "Projects"
         contents:

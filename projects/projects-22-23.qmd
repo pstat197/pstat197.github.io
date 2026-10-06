@@ -10,7 +10,7 @@ Listed alphabetically by project sponsor.
 
 **Student team:** Yujie Li, Caroline He, Sammy Suliman, Safiya Alavi, KunXiao Gao
 
-**Advisors:** Maxim Ivanov, Bonnie Jin, Erika McPhilliips, Yan Lashchev
+**Student Mentors:** Maxim Ivanov, Bonnie Jin, Erika McPhilliips, Yan Lashchev
 
 A Knowledge Graph (KG) represents knowledge as a network that relates entities such as physical objects and concepts. In a KG, the objects and concepts are represented as nodes, while their relations are represented as edges of the graph. Due to the graph structure of this knowledge representation, a KG can be a potent mechanism for searching entities and their relations, discovering new information and enabling complex decision making.
 
@@ -34,7 +34,7 @@ The focus of this project lies in identifying open-source NER/NEL and RE algorit
 
 **Student team:** Ruoxin Wang, Brian Che, Mira Patel, Justin Vo, Dingan Jiang
 
-**Project advisors:** Ari Polakof, Erika McPhillips
+**Student Mentors:** Ari Polakof, Erika McPhillips
 
 At Appfolio we have been solving multiple problems in the Property Management Accounting domain with Machine Learning technologies. Many customers do accounting with our AppFolio Property Management (APM) solution, which means that they need to input all their records (invoices, bills, checks, etc.) in Appfolio. If the customer has integrated their bank account with Plaid (third-party provider) in APM, we also have data coming directly from their bank transactions.
 
@@ -52,7 +52,7 @@ For this project, students will analyze outlier detection methods, performance e
 
 **Student team:** Anya Macomber, Yuqing (Summer) Xia, Kassandra Trejo-Zamora
 
-**Project advisors:** Erin Satterthwaite, Trevor Ruiz
+**Student Mentors:** Erin Satterthwaite, Trevor Ruiz
 
 Most marine fishes and invertebrates produce high abundances of tiny larvae that, depending on the species, reside in the open ocean for weeks to months. Mortality is incredibly high (often upwards of 99%) for most fishes during the larval stage but because larvae are so abundant small changes in rates of survival result in orders of magnitude difference in survival to adult stages (i.e., recruitment). For this reason, elucidating the actual mechanisms in the ocean that affect larval survival is an integral component of fisheries management. Yet, despite over a century of recruitment research, accurately estimating these parameters has been difficult and predicting conditions that facilitate larval survival and drive recruitment remains the fundamental challenge in fisheries science and management.
 
@@ -72,7 +72,7 @@ This project will aim to ascertain predictive relationships between environmenta
 ::: {.column width="75%"}
 **Student team:** Noa Rapoport, Haoming Deng, Lex Navarra, Dan Le, Yutong Wang
 
-**Project advisors:** Andy Chen, Amy Huynh, Joshua Bang
+**Student Mentors:** Andy Chen, Amy Huynh, Joshua Bang
 :::
 
 ::: {.column width="25%"}
@@ -98,7 +98,7 @@ For this project, students will apply new NLP techniques and ML methods to label
 
 **Student team:** Eitan Rashkovan, Allen Wang, Kaylin Roberts, Evan Ji
 
-**Project advisors:** Eleanor Caves, Todd Oakley, Gia Anh, Trevor Ruiz
+**Student Mentors:** Eleanor Caves, Todd Oakley, Gia Anh, Trevor Ruiz
 
 Visual acuity, the ability to perceive detail, is ecologically important, as it dictates what aspects of a visual scene an animal can resolve. Humans have some of the highest acuity in the animal kingdom, so we live in a perceptual world that is rich in spatial detail. Acuity, however, is highly variable, varying by at least four orders of magnitude across animals, meaning that the majority of animals cannot resolve as much spatial detail as we do. Despite acuity's ecological importance, however, we know little about why this variation exists, and one unanswered question in most animal groups is whether there aspects of a species' ecology that correlate with variation in acuity. This project will leverage high resolution photographs taken by the NSF-funded Big Bee Project (http://big-bee.net) to estimate acuity bees. Bees are an excellent group in which to examine variation in acuity, because they exhibit a wide range of lifestyles and ecologies. To measure acuity from a photograph, we must measure two parameters: the diameter of the hexagonal facets (ommatidia) that comprise the bee's compound eye, and the eye's radius of curvature.
 
@@ -116,7 +116,7 @@ For this project, students will begin with a set of images from approximately 50
 ::: {.column width="75%"}
 **Student team:** Daniel Badilla, Allester Ramayrat, Sofia Spasibenko, William Long
 
-**Project advisors:** Katja Seltmann and Joshua Bang
+**Student Mentors:** Katja Seltmann and Joshua Bang
 :::
 
 ::: {.column width="25%"}
@@ -138,7 +138,7 @@ As part of the Big-Bee project (<http://big-bee.net>), we are creating 2D & 3D h
 
 **Student team:** Giselle Ramirez, Thomas Shi, Alex Lim, Ryan Quon, Disha Hauzaree
 
-**Project advisors:** Greg Husak, Shrad Shukla, Enbo Zhou
+**Student Mentors:** Greg Husak, Shrad Shukla, Enbo Zhou
 
 Throughout much of the developing world, human livelihoods are dependent on the success of rainfed agriculture and pastoral biomass for food. In these regions, precipitation (PPT), or rainfall, is a critical indicator of vegetative health and success, and so a number of methods have been developed for expressing the quantity and quality of rainfall. In addition to the amount of PPT coming into the system, there has also been increasing attention on the atmospheric demand for water. One way of capturing this is the use of potential evapotranspiration (PET), which combines temperature, humidity, solar radiation, and wind speed to estimate the amount of water which would be soaked up by the atmosphere over a given surface. Many indicators have sought to combine these factors in a meaningful way to identify deficits in available water for vegetation, and anticipate food shortages in the developing world.
 
@@ -154,7 +154,7 @@ This project will work with quasi-global grids of PPT and PET from the last 40 y
 
 **Student team:** Lily Li, Changhee Yoon, Hannah Li, Russell Liu, Fei Du
 
-**Project advisors:** Shrad Shukla, Greg Husak, Enbo Zhou
+**Student Mentors:** Shrad Shukla, Greg Husak, Enbo Zhou
 
 Daily precipitation is critical for monitoring climate hazards such as floods and droughts, and for running hydrologic and crop water balance models that provide estimates of available water to better manage and utilize water resources. The Climate Hazards Center (CHC) is a global leader in generating precipitation dataset based on satellites and on ground stations. The dataset is called CHIRPS, which stands for Climate Hazards Center InfraRed Precipitation with Stations (CHIRPS) and is a gridded dataset that covers the entire globe, at a spatial resolution of 5km X 5km. CHIRPS version 2.0 has been widely used globally, for monitoring climate hazards and for understanding long-term changes in precipitation.
 
@@ -170,7 +170,7 @@ CHC currently is in the process of developing the latest version of this dataset
 
 **Student team:** Luke Fields, Brian Fan, Ashley Son, Tianhong Liu
 
-**Project advisors:** Patrick Green, Adam Waterbury, Trevor Ruiz
+**Student Mentors:** Patrick Green, Adam Waterbury, Trevor Ruiz
 
 What are the strategies that animals use when competing over essential resources like mates, food, or shelter? Decades of animal behavior research into this question has identified several tactics animals may use. However, most studies do not realistically replicate the problem competing animals face in nature. For example, most experimental studies stage contests between two individuals over one resource; in reality, animals likely interact with a population of multiple competitors, all fighting over multiple resources. Understanding how animals fight in these more naturalistic scenarios will help us discover the strategies animals use in natural systems, while reaffirming or contesting the conclusions of previous work.
 
@@ -188,7 +188,7 @@ The primary objectives of this project will be to build methods to track uniquel
 
 **Student team:** Ankur Malik and Kabir Snell
 
-**Project Advisors:** Trevor Ruiz, Paula Sarmiento, Norbert Leinfellner
+**Student Mentors:** Trevor Ruiz, Paula Sarmiento, Norbert Leinfellner
 
 Inogen is a medical technology enterprise that specializes in the research, development, manufacture, and marketing of portable oxygen concentrators for patients diagnosed with chronic respiratory illnesses. These devices offer a lightweight and practical alternative to conventional oxygen therapy, enabling patients to lead a more active and self-sufficient lifestyle.
 
@@ -206,7 +206,7 @@ Our team is collaborating with faculty and students from Purdue University and T
 
 **Student team:** Shannon Rumsey, Edward Ho, Nealson Setiawan, Jen Park, Chunting Zheng
 
-**Project advisors:** Arinbjörn Kolbeinsson, Eric Daza, Megan Elcheikhali
+**Student Mentors:** Arinbjörn Kolbeinsson, Eric Daza, Megan Elcheikhali
 
 ![](img/23/Evidation-image.jpg){width="200"}
 
@@ -224,7 +224,7 @@ This project will use home testing kit study data to analyse and compare the eff
 
 **Student team:** Ellie Burrell, Justing Liu, Lyndsey Umstead, Piero Trujillo
 
-**Project advisors:** Somayeh Dodge, Evgeny Noi, Laura Baracaldo, Enbo Zhou
+**Student Mentors:** Somayeh Dodge, Evgeny Noi, Laura Baracaldo, Enbo Zhou
 
 The goal of this project is to use movement as a marker to study behavioral responses of people to environmental changes, in particular during natural disasters. As a case study, this project utilizes large and multi-sourced mobility data sets to investigate changes in movement patterns in associations with wildfire events in California. First, the goal is to investigate available data sets and their suitability for representing movement patterns in wildfire-impacted areas. Second, the project focuses on applying machine learning techniques to identify and trace changes in mobility time series and to associate them to the timelines of different wildfire events between 2019-2022 (before, during, and after the fire) compared with a baseline (e.g. a year without wildfire). The outcomes of this project will inform simulation models to assess and estimate wildfire risk on movement flows in Californian communities.
 
@@ -238,7 +238,7 @@ The goal of this project is to use movement as a marker to study behavioral resp
 
 **Student team:** Bernie Graves, Raymond Lee, Aria Kajeh, Jai Uparkar
 
-**Project advisors:** Eric Leidersdorf, Alex Franks, Erika McPhillips, Yan Lashchev
+**Student Mentors:** Eric Leidersdorf, Alex Franks, Erika McPhillips, Yan Lashchev
 
 Over the past decade, resources poured into analytics efforts and performance staff in the NBA (comprising sport scientists, strength coaches, physical therapists, dietitians, athletic trainers, and physicians) have consistently grown. However, despite continued investment in both of these practices, the understanding of relationships between human performance data and on-court productivity has not yielded the expected return. As a field, our understanding of the physical traits that comprise a competent NBA athlete is limited by a lack of consistent data collection processes, team staff churn, the inherent complexity of studying the human body, and the diversity of player roles in basketball.
 
@@ -260,7 +260,7 @@ For this project, students will build a web-scraping tool for the purposes of co
 
 **Student team:** Aleksander Cichosz, Ryan Stofer, Vardan Martirosyan, Teo Zeng
 
-**Project advisors:** Derek Mendez and Robin Liu
+**Student Mentors:** Derek Mendez and Robin Liu
 
 The quality of images used during serial crystallography data processing often weighs heavily on the accuracy of results. It is routine for experimenters to visually inspect and tune parameters to select the best images to process. By using state-of-the-art machine learning technologies, coupled with realistic forward modeling of crystallographic data, one can build a regression model which accepts images as inputs, and outputs experimentally interesting properties. This paves the way towards a machine intelligence capable of auto-selecting the highest quality images during diffraction collection.
 

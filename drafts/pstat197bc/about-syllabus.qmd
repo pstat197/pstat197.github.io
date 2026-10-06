@@ -51,7 +51,7 @@ Students are encouraged to block off section times in their schedule to facilita
 
 Class meetings are held ***once weekly*** 2pm -- 3:15pm Mondays in the (brand new!) Interactive Learning Pavillion project-based learning room 2207.
 
-Student teams are expected to meet ***twice weekly***: once with their advisors, and once separately. These meetings can be scheduled at any time according to preference and availability; access will be arranged to PSTAT's departmental meeting/tutoring spaces for groups who wish to meet on campus.
+Student teams are expected to meet ***twice weekly***: once with their student mentors, and once separately. These meetings can be scheduled at any time according to preference and availability; access will be arranged to PSTAT's departmental meeting/tutoring spaces for groups who wish to meet on campus.
 
 As in Winter, we will reserve the scheduled Wednesday meeting time as a back-up option. Please note that we *will* meet on Wednesday, May 31. In the absence of a scheduled class meeting, students are welcome to use ILP2207 during the scheduled time as a working space.
 
@@ -67,7 +67,7 @@ In place of our final meeting on Monday, June 5, we will host a public showcase 
 
 *Tim Robinson,* Academic Coordinator, Computer Science
 
-#### ***Project advisors***
+#### ***Student mentors***
 
 (In alphabetical order by last name)
 
@@ -159,7 +159,7 @@ Aggregated results will be used to provide individual feedback and identify any 
 
 ***Poster presentation.*** A public showcase of project work will be held on campus at the end of the Spring quarter. Each team is expected to prepare a poster to present at the showcase.
 
-***Non-disclosure agreements.*** Some projects are subject to non-disclosure agreements (NDAs) between the university and the sponsoring organization. If so, project advisors will notify students of the terms and share copies of the NDA; students are expected to uphold any such NDAs but *should not directly sign any agreements*.
+***Non-disclosure agreements.*** Some projects are subject to non-disclosure agreements (NDAs) between the university and the sponsoring organization. If so, student mentors will notify students of the terms and share copies of the NDA; students are expected to uphold any such NDAs but *should not directly sign any agreements*.
 
 ## Assessments
 
