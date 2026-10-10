@@ -10,7 +10,7 @@ Listed alphabetically by project sponsor.
 
 **Student team:** Priyanka Banerjee, Shaka Kanenobu, Vikram Pasupathy, and Ari Polakof
 
-**Advisors:** Soeren Thust, Peng-Yuan Lai, Sikun Lin, and Ambuj Singh
+**Mentors:** Soeren Thust, Peng-Yuan Lai, Sikun Lin, and Ambuj Singh
 
 This project aims to teach a machine to learn math. Students will attempt to train a robot to recognize important data contained within invoices and to perform the necessary calculations on those invoices. This task is important. Figuring out credits and debits is the bottleneck of the payment process. Learning the spatial relationship of data with an arithmetic relationship is a crucial piece of intelligence. With an all-in-one system, AppFolio would like to recover any financial snapshot of any customer in their history.
 
@@ -20,7 +20,7 @@ This project aims to teach a machine to learn math. Students will attempt to tra
 
 **Student team:** Leron Reznikov, Andie Rupprecht, Gavin Tieng, and Meng Vong
 
-**Advisors:** Erin Satterthwaite, Julia Coates, Chau Tran, and Sang-Yun Oh
+**Mentors:** Erin Satterthwaite, Julia Coates, Chau Tran, and Sang-Yun Oh
 
 CALCOFI studies the marine environment of coastal California and investigates the relationships between climate, fish population, and other human activities. This project seeks to establish whether any correlation can be drawn from two separate datasets, as well as possibly investigate any environmental factors that add variance to the relationship. The two data sets under investigation are:
 
@@ -39,7 +39,7 @@ The team will explore the data in more depth, also looking at other species and 
 
 **Student team:** Cristian Razo, Robin Hollingsworth, and Jay Patwardhan
 
-**Advisors:** Erin Satterthwaite, Chau Tran, and Sang-Yun Oh
+**Mentors:** Erin Satterthwaite, Chau Tran, and Sang-Yun Oh
 
 This project looks for correlations between the water characteristics of multiple coastal regions and the makeup of the marine life there, with hopes of providing insight to future observations on what the makeup of marine life should be. This can be vital to preserving the environment, helping endangered marine species, and ensuring the well health of our oceans in general as well.
 
@@ -59,7 +59,7 @@ In addition to correlations between the makeup of water and how these characteri
 
 **Student team:** Andrew Nguyen, Samual Sheridan, Matthew Xu, and Jason Yu
 
-**Advisors:** Crystal Zhang, Joshua Bang, and Mike Ludkovski
+**Mentors:** Crystal Zhang, Joshua Bang, and Mike Ludkovski
 
 The goal of this project is to build an automated tool to predict whether a given personal record includes prior arrest information. There are two objectives. The first is to build a binary classifier to predict whether a webpage contains a criminal record or not. The second objective is to provide information about the arrest (e.g arrest date). The team aims to extract the date of the arrest and the arrest code.
 
@@ -71,7 +71,7 @@ Some similar projects have already been put into production, with text mining al
 
 **Student team:** Andrea Anez, Karanveer Benipal, Manny Medrano, and Romtin Toranji
 
-**Advisors:** Lubi Lenaburg, Joshua Bang, and Alex Franks
+**Mentors:** Lubi Lenaburg, Joshua Bang, and Alex Franks
 
 The CSEP Alumni Tracking Project tracks students graduating from 2000 - 2018 from the University of California, Santa Barbara. The overall goal of tracking students is to monitor opportunities UCSB provides and the impact on student outcomes.
 
@@ -97,7 +97,7 @@ This project provides a unique opportunity to explore data. Here are some possib
 
 **Student team:** Nick Bachelder, Angel Chen, Zoe Fang, Mitchell Rapaport, and Samantha Solomon
 
-**Advisors:** Michelle Lee, Katja Seltmann, Joshua Bang, and Kate Kharitonova
+**Mentors:** Michelle Lee, Katja Seltmann, Joshua Bang, and Kate Kharitonova
 
 We are experiencing a global loss of insects. Already, the loss of any one species can have dramatic cascading impacts on an ecosystem. With 35% of global crop production relying on plant-pollinators, the loss of multiple species of pollinators can have devastating effects on the world's food production.
 
@@ -113,7 +113,7 @@ This project utilizes the vast [Global Biotic Interactions (GloBI) dataset](http
 
 **Student team:** Peter Bayerle, Matthew Coleman, Joanna Kim, and Karsyn Lee
 
-**Advisors:** Eric Daza, Jiajing Zheng, and Alex Franks
+**Mentors:** Eric Daza, Jiajing Zheng, and Alex Franks
 
 The aim of this project is to discover methods of pre-symptomatic COVID-19 detection using data collected from wearables. Using a recent study, ["Pre-symptomatic detection of COVID-19 from smartwatch data" (Mishra et al)](https://www.nature.com/articles/s41551-020-00640-6), as the baseline for research and the source of data for analysis, the Evidation team will use the described outlier detection algorithms to determine the likelihood of COVID-19 infection in an individual given their heart rate, step count, and sleep data.
 
@@ -131,7 +131,7 @@ Ultimately, the project is not only looking to replicate the Mishra et al study 
 
 **Student team:** Sairisheek Muttukuru, Nicholas Nunes, Neil Sadhukhan, and Bill Zhang
 
-**Advisors**: Louis Tremblay, Joshua Bang, and Sang-Yun Oh
+**Mentors**: Louis Tremblay, Joshua Bang, and Sang-Yun Oh
 
 The FLIR team is working on real time object detection models with a primary use for autonomous driving cars. Much of the current technology is centered around RGB cameras as seen in Figure 1.
 
@@ -151,7 +151,7 @@ This project is primarily concerned with analyzing the robustness of a thermal o
 
 **Student team:** Amy Cho, Anton de la Fuente, Sai Kathika, Austin Quinn, and Shuyun Tang
 
-**Advisors:** Mike Lawrence, Sikun Lin, and Ambuj Singh
+**Mentors:** Mike Lawrence, Sikun Lin, and Ambuj Singh
 
 This project explores the development of applications for collecting and categorizing key elements in a conversation. One idea is to extend the designed application to a chatbot. To build their models, the team is using the open-source Google Taskmaster-1 dataset, which consists of 13,215 task-based dialogs created between a customer and an agent having a conversation recorded in text about one of the following six topics: ordering pizza, creating auto repair appointments, setting up ride service, ordering movie tickets, ordering coffee drinks, and making restaurant reservations.
 
@@ -161,7 +161,7 @@ This project explores the development of applications for collecting and categor
 
 **Student team:** Sam Guo, Adhitya Logan, Lia Ran, Sophia Sternberg, and Karen Zhao
 
-**Advisors:** Julien Brun, Allison Horst, Chau Tran, and Sang-Yun Oh
+**Mentors:** Julien Brun, Allison Horst, Chau Tran, and Sang-Yun Oh
 
 Dr. Julien Brun (NCEAS) and Dr. Allison Horst (UCSB Bren School) have been developing an R package to help teach data science. The main goal of this package is to offer a set of data sets to replace the usual datasets shipped with R (mtcars, iris, ...) with something more exciting and geared towards Environmental Sciences. We aim at developing a data set for each of the 28 sites of the Long Term Ecological Research (LTER) Network. Students on this team will help Julien and Allison with their R package (and accompanying website).
 
@@ -175,7 +175,7 @@ This project is based on a previous project led by Allison on the [Palmer Pengui
 
 **Student team:** Helen Huang, Shivam Misra, Priya Padmanabhan, Pugal Surya, and Rey Yue
 
-**Advisors:** Juliana Acosta Uribe, Ken Kosik, Joshua Bang, and Alex Franks
+**Mentors:** Juliana Acosta Uribe, Ken Kosik, Joshua Bang, and Alex Franks
 
 How has a present day population been shaped by the risk of Alzheimer's disease? This population genetics project seeks to understand a rare, variant genetic mutation that causes early-onset Alzheimer's disease.
 
@@ -191,7 +191,7 @@ This rewarding project introduces exciting biology concepts and terminology, as 
 ::: {.column width="70%"}
 **Student team:** Zoe Holzer, Lawrence Lin, Vanessa Salgado Zavaleta, Emily San Juan, and Jake Simon
 
-**Advisors:** Namino Glantz, David Kerr, Jiajing Zheng, and Alex Franks
+**Mentors:** Namino Glantz, David Kerr, Jiajing Zheng, and Alex Franks
 :::
 
 ::: {.column width="30%"}
